@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Max a hobby developer from Germany.<br>
+My ✨ Favourite programming langauge is Java 🍵, what's yours?
+
+## 📫 How to reach me: <br>
+📧 bethibande@gmail.com <br>
+Discord Bethibande#8532<br>
+
+## Stats
+![Bethibande's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethibande&show_icons=true&theme=tokyonight)
 
 <!--
 **Bethibande/Bethibande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
