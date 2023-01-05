@@ -6,9 +6,6 @@ My ✨ Favourite programming langauge is Java 🍵, what's yours?
 📧 bethibande@gmail.com <br>
 <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 16px; vertical-align: middle;"/> &nbsp;Bethibande#8532<br>
 
-### Stats
-![Bethibande's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethibande&show_icons=true&theme=tokyonight)
-
 <!--
 **Bethibande/Bethibande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
