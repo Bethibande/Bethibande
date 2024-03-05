@@ -1,6 +1,4 @@
 ### Hi there 👋
-I'm Max a hobby developer from Germany.<br>
-My ✨ Favourite programming langauge is Java 🍵, what's yours?
 
 ### 📫 How to reach me: <br>
 📧 bethibande@gmail.com <br>
