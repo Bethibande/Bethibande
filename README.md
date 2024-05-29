@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### 📫 How to reach me: <br>
-📧 bethibande@gmail.com <br>
+### How to reach me: <br>
+📫 bethibande@gmail.com <br>
 <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 16px; vertical-align: middle;"/> &nbsp;Bethibande#8532<br>
 
 <!-- ![](https://komarev.com/ghpvc/?username=bethibande) -->
